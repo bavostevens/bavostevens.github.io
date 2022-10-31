@@ -40,7 +40,7 @@ Overview - Political Science : Methods for causal inference using a potential ou
 CV
 ------
 
-Here is my [CV](docs/.pdf) as of October 2022.
+Here is my [CV](docs/BStevens-CV-2022 Oct.pdf) as of October 2022.
 
 Contact Me
 ------
