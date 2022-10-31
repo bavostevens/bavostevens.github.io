@@ -1,2 +1,5 @@
-# bavostevens.github.io
-Personal website
+# Bavo Stevens
+# About Me
+# Research
+# Teaching
+# Contact Me
