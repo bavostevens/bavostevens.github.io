@@ -1,24 +1,29 @@
 Bavo Stevens
 ======
+
+
+
 About Me
 ------
 
 I'm a PhD Student in the Department of Political Science at McGill University where I work broadly on questions on authoritarianism and democracy in Southeast Asia. Prior to starting at McGill, I was a lecturer at the Faculty of Political Science at Ubon Ratchathani University in Thailand. There, I taught courses on international relations, methodology, and human rights. I also worked at the United Nations University in Barcelona and Tokyo as a migration researcher. 
 
-I also hold an MA in War Studies from King's College London, and a BA in Political Science from the University of Chicago. 
+I hold an MA in War Studies from King's College London, and a BA in Political Science from the University of Chicago. 
 
 Research
 ------
 
-My research focuses primarily on the authoritarian governance in Southeast Asia. 
+My research focuses primarily on authoritarian governance in Southeast Asia, specifically in the areas of policing and civil-military relations. I'm currently developing a PhD proposal to look at how authoritarian regimes in the region repress dissent while also maintaining law and order and fighting crime. 
 
 I've also written and published on nationalism in Thailand, and Thailand's immigration and asylum policy. 
 
 ### Selected Publications
 
+Here is a list of selected publications as of October 2022. 
+
 #### Book Chapters
 
-Bavo Stevens, “Nationalism as a Site of Contestation for Political Legitimacy in Thailand,” in Pablo de Orellana and Nicholas Michelsen, ed., [Reflections on Nationalism](https://www.worldscientific.com/worldscibooks/10.1142/q0341#t=aboutBook)(London & Singapore: World Scientific Publishing, 2021). 
+Bavo Stevens, “Nationalism as a Site of Contestation for Political Legitimacy in Thailand,” in Pablo de Orellana and Nicholas Michelsen, ed., [Reflections on Nationalism](https://www.worldscientific.com/worldscibooks/10.1142/q0341#t=aboutBook) (London & Singapore: World Scientific Publishing, 2022). 
 
 [Book Review: Strategies of Authoritarian Survival and Dissensus in Southeast Asia by Sokphea Young](https://blogs.lse.ac.uk/lsereviewofbooks/2022/04/25/book-review-strategies-of-authoritarian-survival-and-dissensus-in-southeast-asia-by-sokphea-young/). (25 April 2022) 
 
@@ -28,8 +33,12 @@ Bavo Stevens, (2018) [“The Involuntary Immobility of Bangkok’s Urban Refugee
 Teaching
 ------
 
+#### Teaching Assistant for Poli 666 - Causual Inference for Political Sciene
+
 CV
 ------
+
+Here is my CV as of October 2022.
 
 Contact Me
 ------
