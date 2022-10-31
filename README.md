@@ -1,7 +1,6 @@
 Bavo Stevens
 ======
 
-![This is me]
 
 About Me
 ------
