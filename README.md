@@ -42,6 +42,8 @@ CV
 
 Here is my CV as of October 2022.
 
+![alt text](https://github.com/bavostevens/bavostevens.github.io/commit/7ce2a364f0eb242fc99a862dc5f1566b60e4c09f)
+
 Contact Me
 ------
 
