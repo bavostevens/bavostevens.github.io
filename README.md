@@ -36,4 +36,4 @@ Contact Me
 
 I'm available via e-mail at bavo.stevens@mail.mcgill.ca.
 
-You can also find me on Twitter at @B_LR_S
+You can also find me on Twitter at [@B_LR_S](https://twitter.com/B_LR_S)
