@@ -1,10 +1,10 @@
-Bavo Stevens
+## Bavo Stevens
+
+About Me
 ======
-## About Me
+Research
 ======
-## Research
+Teaching
 ======
-## Teaching
-======
-## Contact Me
+Contact Me
 ======
